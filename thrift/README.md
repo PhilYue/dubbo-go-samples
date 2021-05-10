@@ -1,0 +1,1 @@
+thrift -r -out /Users/phil/work/goworkspace/dubbo-go-samples/thrift/go-api/ --gen go thrift/UserService.thrift

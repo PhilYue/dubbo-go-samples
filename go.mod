@@ -2,6 +2,7 @@ module github.com/apache/dubbo-go-samples
 
 require (
 	cloud.google.com/go v0.50.0 // indirect
+	git.apache.org/thrift.git v0.14.1 // indirect
 	github.com/Microsoft/go-winio v0.4.15-0.20190919025122-fc70bd9a86b5 // indirect
 	github.com/alibaba/sentinel-golang v1.0.2
 	github.com/apache/dubbo-getty v1.4.3
