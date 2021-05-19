@@ -28,6 +28,7 @@ require (
 	github.com/transaction-wg/seata-golang v0.2.1-alpha
 	github.com/uber/jaeger-client-go v2.22.1+incompatible
 	github.com/uber/jaeger-lib v2.2.0+incompatible // indirect
+	go.opencensus.io v0.22.2
 	google.golang.org/grpc v1.33.1
 	google.golang.org/grpc/examples v0.0.0-20210322221411-d26af8e39165 // indirect
 )
